@@ -24,9 +24,9 @@ int main() {
 	
 	media = soma / 2;
 	
-	printf("\n==== Exibindo Resultados média ====\n");
-	printf("Média: %.1f \n", media);
+	printf("\n==== Exibindo Resultados mÃ©dia ====\n");
+	printf("MÃ©dia: %.1f \n", media);
 	
-	return 0
+	return 0;
 	
 }
